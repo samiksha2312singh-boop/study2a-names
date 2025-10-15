@@ -1,0 +1,18 @@
+{
+  "session_id": "session_20251015_032553_1153",
+  "condition": "JACKIE",
+  "timestamp": "2025-10-15 03:25:58",
+  "total_messages": 2,
+  "conversation": [
+    {
+      "role": "user",
+      "content": "hello",
+      "timestamp": "2025-10-15 03:25:58"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I assist you today?",
+      "timestamp": "2025-10-15 03:25:58"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+=== SESSION METADATA ===
+Session ID,session_20251015_032415_9481
+Condition,JACKIE
+Session Start Time,2025-10-15 03:24:15
+First Message Time,2025-10-15 03:24:20
+Last Message Time,2025-10-15 03:24:21
+Total Session Duration,0:00:06
+Total Session Seconds,6.374396
+Active Chat Duration,0:00:01
+Active Chat Seconds,1.339032
+Total Messages,2
+
+=== CONVERSATION ===
+Message Number,Role,Content,Timestamp
+1,user,hello,2025-10-15 03:24:20
+2,assistant,Hello! How can I assist you today?,2025-10-15 03:24:21

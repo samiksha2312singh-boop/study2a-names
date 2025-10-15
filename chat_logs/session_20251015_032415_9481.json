@@ -1,0 +1,27 @@
+{
+  "session_id": "session_20251015_032415_9481",
+  "condition": "JACKIE",
+  "timestamp": "2025-10-15 03:24:21",
+  "total_messages": 2,
+  "time_metrics": {
+    "session_start": "2025-10-15 03:24:15",
+    "first_message": "2025-10-15 03:24:20",
+    "last_message": "2025-10-15 03:24:21",
+    "total_session_duration": "0:00:06",
+    "total_session_seconds": 6.373984,
+    "active_chat_duration": "0:00:01",
+    "active_chat_seconds": 1.339032
+  },
+  "conversation": [
+    {
+      "role": "user",
+      "content": "hello",
+      "timestamp": "2025-10-15 03:24:20"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I assist you today?",
+      "timestamp": "2025-10-15 03:24:21"
+    }
+  ]
+}
