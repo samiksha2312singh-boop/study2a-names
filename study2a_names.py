@@ -122,7 +122,7 @@ if "messages" not in st.session_state:
     st.session_state.messages = [{"role": "system", "content": system_prompt}]
 
 # Header
-st.markdown("<h1 style='color: white;'>🤖 AI Chat Assistant</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='color: white;'>AI Chat Assistant</h1>", unsafe_allow_html=True)
 st.markdown(f"<p style='color: #888;'>Study 2a - Names | Condition: {st.session_state.condition}</p>", unsafe_allow_html=True)
 st.markdown("---")
 
